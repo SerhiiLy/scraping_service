@@ -1,0 +1,4 @@
+virtualenv venv
+
+django-admin startproject scraping_service
+django-admin startproject scraping_service .
