@@ -1,0 +1,31 @@
+[
+{
+  "model": "scraping.city",
+  "pk": 1,
+  "fields": {
+    "name": "Київ",
+    "slug": "kyiv"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 1,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 1,
+  "fields": {
+    "url": "https://djinni.co/jobs2/203758-middle-python-developer-american-product_fash",
+    "title": "Middle Python Developer {American product_fashion industry}",
+    "company": "TechScout.tech",
+    "description": "Greetings! My name is Maria and I am looking for a talented Middle Python Developer to join the team of my customer who works on building technology that has the potential to transform the fashion industry and how we shop online. It's a state-of-the-art body scanning technology and products, powered by it. \r\n\r\nRequirements:\r\n 2+ years of experience with Python, Django/DRF;\r\n Experience with task queues, Celery;\r\n Experience with design REST API;\r\n Proficient understanding of GIT;\r\n Strong unit test and debugging skills;\r\n Experience with TDD.\r\n Experience with GCP, AWS or another public cloud provider, containerized deployments, Kubernetes;\r\nAble to create database schema that represents and support business processes;\r\nUnderstanding of fundamental design principles behind a scalable application;\r\nExperience in scaling out applications and maximizing throughput through load balancing, database sharding.\r\n\r\n\r\nConditions:\r\nA cozy workplace\r\nInvestment in your growth and self-development;\r\nStock option program;\r\n 20 working days of paid vacations and paid sick leaves;\r\n10 remote days each month and one remote month from another country per year;\r\n Foreign language classes inhouse and communication with native speakers;\r\n Online fitness with a corporate trainer;\r\n Corporate events, competitions and team building events.\r\n\r\n\r\nYou're welcome to ask me additional questions. Please, share your CV and salary expectations if you are interested! Thank you in advance!",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-13"
+  }
+}
+]
