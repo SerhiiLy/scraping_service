@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45ec2a7b-ee8a-4a3c-b577-e88c4663fcfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scraping/templates/scraping/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scraping/templates/scraping/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scraping/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scraping/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scraping/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scraping/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scraping/templates/scraping/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping/templates/scraping/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scraping/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scraping_service/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping_service/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -60,7 +57,7 @@
       <workItem from="1613164694204" duration="5219000" />
       <workItem from="1613209021363" duration="21000" />
       <workItem from="1613209047264" duration="8625000" />
-      <workItem from="1613220736097" duration="1049000" />
+      <workItem from="1613220736097" duration="5709000" />
     </task>
     <servers />
   </component>
@@ -80,10 +77,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="694" y="299" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613218126416">
+    <state x="694" y="299" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613229508027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="694" y="299" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613218126416" />
+    <state x="694" y="299" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613229508027" />
     <state x="939" y="136" key="CommitChangelistDialog2" timestamp="1613165069425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
