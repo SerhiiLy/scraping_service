@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45ec2a7b-ee8a-4a3c-b577-e88c4663fcfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scraping/templates/scraping/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scraping/templates/scraping/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scraping/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scraping/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scraping/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scraping/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scraping_service/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scraping_service/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="fec0dc0d-9da3-4ed5-8cdd-083b24bc34aa" />
+  <component name="ProjectId" id="1oOFiQpcYb4RjLFzieY8aOk8nXn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Django_Python_Projects\scraping_service" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45ec2a7b-ee8a-4a3c-b577-e88c4663fcfa" name="Default Changelist" comment="" />
+      <created>1613149862187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613149862187</updated>
+      <workItem from="1613149863655" duration="3894000" />
+      <workItem from="1613164694204" duration="5219000" />
+      <workItem from="1613209021363" duration="21000" />
+      <workItem from="1613209047264" duration="8625000" />
+      <workItem from="1613220736097" duration="1049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="694" y="299" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613218126416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="299" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613218126416" />
+    <state x="939" y="136" key="CommitChangelistDialog2" timestamp="1613165069425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="136" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613165069425" />
+    <state x="1051" y="193" key="FileChooserDialogImpl" timestamp="1613209040367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1051" y="193" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613209040367" />
+    <state x="816" y="278" key="SettingsEditor" timestamp="1613221479477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="278" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613221479477" />
+  </component>
+</project>
