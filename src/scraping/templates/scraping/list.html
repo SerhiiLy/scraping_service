@@ -1,4 +1,4 @@
-{% extends "scraping\base.html" %}
+{% extends "base.html" %}
 
 {% block title %}Home{% endblock %}
 
@@ -10,13 +10,13 @@
                 <h4>{{ obj.company }}</h4>
                 <p class="card-text">{{ obj.description }}</p>
                 <p>{{ obj.city.name }} | {{ obj.language.name }} |
-                    <small>{{ obj.timestamp|date:"d-m-y" }}</small></p>
-
+                    <small>{{ obj.timestamp|date:"d-m-y" }}</small>x</p>
             </div>
         </div>
     {% empty %}
         <h3 class="mx-auto">На жаль, по даному запиті, нічого не знайдено</h3>
     {% endfor %}
+
 {% if object_list %}
     <div class="row">
         <div class="col">

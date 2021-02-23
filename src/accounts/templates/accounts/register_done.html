@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %} Register {% endblock %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <h4 class="my-2"> Вітаємо новго користувача {{ new_user.email }}
+        </h4>
+        <h2>Ви зареєстрвались в системію.Тепер Ви можете <a href="{% url 'accounts:login' %}">увійти</a> </h2>
+    </div>
+</div>
+
+{% endblock %}
