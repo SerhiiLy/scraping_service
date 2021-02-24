@@ -37,7 +37,7 @@ class UserRegistrationForm(forms.ModelForm):
 
     class Meta:
         model = User
-        fields = ('email', )
+        fields = ('email',)
 
     def clean_password2(self):
         data = self.cleaned_data
@@ -48,17 +48,30 @@ class UserRegistrationForm(forms.ModelForm):
 
 class UserUpdateForm(forms.Form):
     city = forms.ModelChoiceField(
-                                  queryset=City.objects.all(),
-                                  to_field_name='slug', required=True,
-                                  widget=forms.Select(attrs={'class': 'form-control'})
-                                  )
+        queryset=City.objects.all(),
+        to_field_name='slug', required=True,
+        widget=forms.Select(attrs={'class': 'form-control'})
+    )
     language = forms.ModelChoiceField(
-                                      queryset=Language.objects.all(),
-                                      to_field_name='slug', required=True,
-                                      widget=forms.Select(attrs={'class': 'form-control'})
-                                      )
+        queryset=Language.objects.all(),
+        to_field_name='slug', required=True,
+        widget=forms.Select(attrs={'class': 'form-control'})
+    )
     send_email = forms.BooleanField(required=False, widget=forms.CheckboxInput, label='Отримувати розсилку?')
 
     class Meta:
         model = User
         fields = ('city', 'language', 'send_email')
+
+
+class ContactForm(forms.Form):
+    city = forms.CharField(
+        required=True,
+        widget=forms.TextInput(attrs={'class': 'form-control'})
+    )
+    language = forms.CharField(
+        required=True,
+        widget=forms.TextInput(attrs={'class': 'form-control'})
+    )
+    email = forms.CharField(label='Ведіть емейл', required=True,
+                            widget=forms.EmailInput(attrs={'class': 'form-control'}))

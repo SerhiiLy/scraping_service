@@ -4,6 +4,7 @@
 
 {% block content %}
 
+
 <div class="row">
     <div class="col-md-8 mx-auto">
         <h4 class="my-2">Налаштування</h4>
@@ -18,5 +19,17 @@
         </form>
     </div>
 </div>
-
+<div class="row my-5">
+    <div class="col-md-8 mx-auto">
+        <p class="my-2">Якщо Ви не знайшли підходящий набір Місто, Спеціальність.
+        Ви можете заповнити форму нище з Вашими побажаннями. Після того, як необхідні дані будуть добавлені
+        , Ви отримаєте повідомлення на вказану Вами пошту.</p>
+        <form method="post" action="{% url 'accounts:contact'%}">{% csrf_token %}
+          <div class="form-group">
+            {{ contact_form.as_p }}
+          </div>
+          <button type="submit" class="btn btn-primary">Відправити</button>
+        </form>
+    </div>
+</div>
 {% endblock %}
