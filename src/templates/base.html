@@ -1,4 +1,7 @@
 {% load static %}
+{% url 'accounts:update' as update_url %}
+{% url 'accounts:register' as register_url %}
+{% url 'accounts:login' as login_url%}
 <!doctype html>
 <html lang="en">
 <head>
@@ -26,17 +29,17 @@
             <ul class="navbar-nav ml-auto">
                 {% if user.is_authenticated %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{% url 'accounts:update' %}">Налаштування</a>
+                        <a class="nav-link {% if request.path == update_url %} active {% endif %}" href="{% url 'accounts:update' %}">Налаштування</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{% url 'accounts:logout' %}">Вийти</a>
+                        <a class="nav-link " href="{% url 'accounts:logout' %}">Вийти</a>
                     </li>
                 {% else %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{% url 'accounts:login' %}">Увійти</a>
+                        <a class="nav-link {% if request.path == login_url %} active {% endif %}" href="{% url 'accounts:login' %}">Увійти</a>
                     </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="{% url 'accounts:register' %}">Зареєструватись</a>
+                        <a class="nav-link {% if request.path == register_url %} active {% endif %}" href="{% url 'accounts:register' %}">Зареєструватись</a>
                     </li>
                 {% endif %}
             </ul>
