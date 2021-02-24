@@ -3,21 +3,22 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
+
+
+
+{% if object_list %}
+<h3 class="mx-auto">Результати згідно Вашого запиту</h3>
     {% for obj in object_list %}
         <div class="card my-3">
-            <h5 class="card-header"><a href="{{ obj.url}}">{{ obj.title}}</a></h5>
+            <h5 class="card-header"><a href="{{ obj.url }}">{{ obj.title }}</a></h5>
             <div class="card-body">
-                <h4>{{ obj.company }}</h4>
                 <p class="card-text">{{ obj.description }}</p>
+                <p>bold{{ obj.company }}</p>
                 <p>{{ obj.city.name }} | {{ obj.language.name }} |
                     <small>{{ obj.timestamp|date:"d-m-y" }}</small>x</p>
             </div>
         </div>
-    {% empty %}
-        <h3 class="mx-auto">На жаль, по даному запиті, нічого не знайдено</h3>
     {% endfor %}
-
-{% if object_list %}
     <div class="row">
         <div class="col">
             <nav aria-label="Page navigation example">
@@ -62,6 +63,8 @@
 <!--            </div>-->
 <!--        </div>-->
 <!--    </div>-->
+{% else %}
+        <h3 class="mx-auto">На жаль, по даному запиті, нічого не знайдено</h3>
 {% endif %}
 
 <div class="row">

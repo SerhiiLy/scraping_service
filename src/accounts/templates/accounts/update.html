@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %} Register {% endblock %}
+{% block title %} Update {% endblock %}
 
 {% block content %}
 
@@ -24,12 +24,21 @@
         <p class="my-2">Якщо Ви не знайшли підходящий набір Місто, Спеціальність.
         Ви можете заповнити форму нище з Вашими побажаннями. Після того, як необхідні дані будуть добавлені
         , Ви отримаєте повідомлення на вказану Вами пошту.</p>
-        <form method="post" action="{% url 'accounts:contact'%}">{% csrf_token %}
-          <div class="form-group">
-            {{ contact_form.as_p }}
-          </div>
-          <button type="submit" class="btn btn-primary">Відправити</button>
-        </form>
+         <p>
+          <button class="btn btn-success" type="button" data-toggle="collapse" data-target="#collapsed" aria-expanded="false" aria-controls="collapseExample">
+            Показати форму
+          </button>
+        </p>
+        <div class="collapse" id="collapsed">
+          <div class="card card-body">
+            <form method="POST" action="{% url 'accounts:contact'%}">{% csrf_token %}
+              <div class="form-group">
+                {{ contact_form.as_p }}
+              </div>
+              <button type="submit" class="btn btn-primary">Відправити</button>
+            </form>
+           </div>
+        </div>
     </div>
 </div>
 {% endblock %}

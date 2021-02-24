@@ -60,12 +60,12 @@ text_content = ''
 if qs.exists():
     error = qs.first()
     _html = ''
-    data = error.data['errors']
+    data = error.data.get('errors', [])
     for i in data:
         _html += f'<p><a href="{ i["url"] }">Error: { i["title"]}</a></p>'
     subject = f"Помилки скрапінга {today}"
     text_content = "Помилки скрапінга"
-    data = error.data['user_data']
+    data = error.data.get('user_data')
     if data:
         _html += '<hr>'
         _html += '<h2> Побажання користувачів </h2>'
