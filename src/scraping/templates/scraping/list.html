@@ -15,7 +15,7 @@
                 <p class="card-text">{{ obj.description }}</p>
                 <p>bold{{ obj.company }}</p>
                 <p>{{ obj.city.name }} | {{ obj.language.name }} |
-                    <small>{{ obj.timestamp|date:"d-m-y" }}</small>x</p>
+                    <small>{{ obj.timestamp|date:"d-m-Y" }}</small></p>
             </div>
         </div>
     {% endfor %}
@@ -61,8 +61,8 @@
 <!--                    {% endif %}-->
 <!--                </span>-->
 <!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
+        </div>
+    </div>
 {% else %}
         <h3 class="mx-auto">На жаль, по даному запиті, нічого не знайдено</h3>
 {% endif %}

@@ -1,0 +1,2622 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2021-02-25T21:42:22.470Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "58",
+    "object_repr": "  Senior Information Security Engineer, Transport Booking System\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2021-02-25T21:42:22.894Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "57",
+    "object_repr": "  Data Scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2021-02-25T21:44:10.692Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "156",
+    "object_repr": "\nQA -  Native Mobile Automation\nat†EPAM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.123Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "155",
+    "object_repr": "\nData Engineer (Python)\nat†Very Good Security",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.240Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "154",
+    "object_repr": "\nSenior Python Developer\nat†Bintime",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.350Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "153",
+    "object_repr": "\nElasticsearch Engineer\nat†Luxoft",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.450Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "152",
+    "object_repr": "\nBackend Team Lead\nat†WorkNest Technologies",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.561Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "151",
+    "object_repr": "\nSenior Back End Engineer\nat†MWDN",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.673Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "150",
+    "object_repr": "\nPython Engineer, Sr\nat†Sphere Software",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.794Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "149",
+    "object_repr": "\nSoftware Test Automation Engineer (Python/Java)\nat†EPAM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2021-02-25T21:44:11.906Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "148",
+    "object_repr": "\nBigData/AWS Developer\nat†EPAM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.038Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "147",
+    "object_repr": "\nPython / Django Developer IRC111866\nat†GlobalLogic",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.139Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "146",
+    "object_repr": "\nPython Developer†‚††Yael Acceptic\n ËÂ‚, ’‡¸ÍÓ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.250Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "145",
+    "object_repr": "\nMiddle Python Software Engineer (ML)†‚††Data Science UA\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.372Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "144",
+    "object_repr": "\nLead Python Developer†‚††Django Stars\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.473Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "143",
+    "object_repr": "\nPython/Django Developer†‚††Django Stars\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.616Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "142",
+    "object_repr": "\nMiddle Python Engineer (Growing Healthcare Company from†NY)†‚††WeSoftYou\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.728Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "141",
+    "object_repr": "\nMiddle Python Software Engineer†‚††Reface\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.871Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "140",
+    "object_repr": "\nPython Developer in†Test (Server)†‚††Ajax Systems\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2021-02-25T21:44:12.984Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "139",
+    "object_repr": "\nMiddle Python Engineer (Retraining to†Big Data), ID†61519†‚††SoftServe\n ËÂ‚, ¬ËÌÌËˆ‡, ◊ÂÍ‡ÒÒ˚,  ÓÔË‚ÌËˆÍËÈ, ∆ËÚÓÏË\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.083Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "138",
+    "object_repr": "  Middle Python Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.207Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "137",
+    "object_repr": "  Senior Python Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.362Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "136",
+    "object_repr": "  Middle Python Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.487Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "135",
+    "object_repr": "  Senior Python/Django Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.617Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "134",
+    "object_repr": "  Data scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.727Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "133",
+    "object_repr": "  Middle Python developer (remote)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.850Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "132",
+    "object_repr": "  Senior Python Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2021-02-25T21:44:13.961Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "131",
+    "object_repr": "  IT security expert\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.062Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "130",
+    "object_repr": "  Cloud Engineer (Big Data/Data Lake)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.172Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "129",
+    "object_repr": "  Junior Python\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.283Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "128",
+    "object_repr": "  Junior Python\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.405Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "127",
+    "object_repr": "  FullStack (Python+JavaScript) Developer, Financial Software Solutions\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.617Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "126",
+    "object_repr": "  Tech Lead with Python Experience, Financial Software Solutions\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.727Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "125",
+    "object_repr": "  Senior Python Developer, Financial Software Solutions\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.829Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "124",
+    "object_repr": "  Cloud Engineer, Online Retailer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2021-02-25T21:44:14.928Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "123",
+    "object_repr": "  Intersystems Cache Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.039Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "122",
+    "object_repr": "  Data Scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.139Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "121",
+    "object_repr": "  Python developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.239Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "120",
+    "object_repr": "  √Î‡‚Ì˚È ÒÔÂˆË‡ÎËÒÚ ŒÚ‰ÂÎ‡ ‡Á‚ËÚËˇ ÍÓÔÓ‡ÚË‚ÌÓÈ ÏÓ‰ÂÎË ‰‡ÌÌ˚ı\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.350Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "119",
+    "object_repr": "  Python Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.506Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "118",
+    "object_repr": "  Middle Python developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.606Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "117",
+    "object_repr": "  Automation Test Engineer (Python) #9025\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.706Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "116",
+    "object_repr": "  Data analyst\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.817Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "115",
+    "object_repr": "  Senior Back End Engineer (Python)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2021-02-25T21:44:15.938Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "114",
+    "object_repr": "  Data Scientist\n  ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2021-02-25T21:44:16.069Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "113",
+    "object_repr": "  Game Economist (Game development)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2021-02-25T21:44:16.274Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "112",
+    "object_repr": "  Machine Learning Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2021-02-25T21:44:16.407Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "111",
+    "object_repr": "  Middle Python-ÔÓ„‡ÏÏËÒÚ\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2021-02-25T21:44:16.528Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "110",
+    "object_repr": "  Python developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2021-02-25T21:44:16.673Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "109",
+    "object_repr": "  RPA Software Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2021-02-25T21:44:16.785Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "108",
+    "object_repr": "  Back-end developer (Python/Django)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2021-02-25T21:44:16.918Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "107",
+    "object_repr": "  Middle Python Developer / Middle œÓ„‡ÏÏËÒÚ Python\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.051Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "106",
+    "object_repr": "  œÂÔÓ‰‡‚‡ÚÂÎ¸ Python\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.163Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "105",
+    "object_repr": "  ”˜ËÚÂÎ¸ ËÌÙÓÏ‡ÚËÍË ‚ IT-¯ÍÓÎÛ ‰Îˇ ‰ÂÚÂÈ\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.285Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "104",
+    "object_repr": "  Junior Full Stack Software Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.405Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "103",
+    "object_repr": "  Python Trainee Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.551Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "102",
+    "object_repr": "  DevOps engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.673Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "101",
+    "object_repr": "  Junior JS Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.807Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "100",
+    "object_repr": "  Middle DevOps Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2021-02-25T21:44:17.941Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "99",
+    "object_repr": "\nPython developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.051Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "98",
+    "object_repr": "\nPython/Data Engineer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.185Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "97",
+    "object_repr": "\nSenior Python BackEnd Developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.306Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "96",
+    "object_repr": "\nMiddle Python/Full Stack Developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.495Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "95",
+    "object_repr": "\nMiddle Python developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.607Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "94",
+    "object_repr": "\nSenior Python Engineer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.729Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "93",
+    "object_repr": "\nPython Developer (Media Conglomerate)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.840Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "92",
+    "object_repr": "\nTest Automation Engineer (Python, 9025)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2021-02-25T21:44:18.973Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "91",
+    "object_repr": "\nMiddle Python Engineer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2021-02-25T21:44:19.103Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "90",
+    "object_repr": "\nPython Developer, Mentor\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2021-02-25T21:44:19.240Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "89",
+    "object_repr": "\nStrong middle/Senior Back-end developer (Python, Django)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2021-02-25T21:44:19.374Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "88",
+    "object_repr": "\nTech Lead with Python Experience (Financial Software Solutions)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2021-02-25T21:44:19.496Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "87",
+    "object_repr": "\nPython Developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2021-02-25T21:44:19.629Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "86",
+    "object_repr": "\nSenior software developer(python&sql), analytics and data†‚††Windsor.ai\n$2500ñ4000\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2021-02-25T21:44:19.751Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "85",
+    "object_repr": "  Data Engineer IT\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2021-02-25T21:44:19.895Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "84",
+    "object_repr": "  IT specialist/Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.018Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "83",
+    "object_repr": "  Data Scientist/ML Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.151Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "82",
+    "object_repr": "  ¿Ì‡Î≥ÚËÍ (Python, SQL)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.263Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "81",
+    "object_repr": "  Data scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.396Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "80",
+    "object_repr": "  Python Developer\n  ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.506Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "79",
+    "object_repr": "  Senior Python Developer With AWS (Automotive Domain)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.640Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "78",
+    "object_repr": "  Data Scientist\n  ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.763Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "77",
+    "object_repr": "  Senior Python Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2021-02-25T21:44:20.907Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "76",
+    "object_repr": "  Data Scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.050Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "75",
+    "object_repr": "  Middle Python developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.162Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "74",
+    "object_repr": "  Machine Learning Engineer (Gradescope)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.307Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "73",
+    "object_repr": "  Senior Python Developer With AWS (Automotive Domain)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.418Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "72",
+    "object_repr": "  Full-Stack Python Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.540Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "71",
+    "object_repr": "  Junior Data Scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.662Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "70",
+    "object_repr": "  Data Analyst\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.796Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "69",
+    "object_repr": "  Middle Automation QA Engineer (Python)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2021-02-25T21:44:21.907Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "68",
+    "object_repr": "  Middle Python developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.051Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "67",
+    "object_repr": "  Game Mathematician\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.185Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "66",
+    "object_repr": "  Data Scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.305Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "65",
+    "object_repr": "  Product analyst\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.451Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "64",
+    "object_repr": "  Machine Learning DevOps Expert\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.573Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "63",
+    "object_repr": "  Big Data Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.717Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "62",
+    "object_repr": "  Senior Python Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.840Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "61",
+    "object_repr": "  √Î‡‚Ì˚È ÒÔÂˆË‡ÎËÒÚ ÓÚ‰ÂÎ‡ ËÒÍÛÒÒÚ‚ÂÌÌÓ„Ó ËÌÚÂÎÎÂÍÚ‡\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2021-02-25T21:44:22.985Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "60",
+    "object_repr": "  AI/ML Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2021-02-25T21:44:23.118Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "59",
+    "object_repr": "  Senior BigData Engineer, Financial Software Solutions\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2021-02-25T21:44:23.240Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "56",
+    "object_repr": "  Junior Data Scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2021-02-25T21:44:23.373Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "55",
+    "object_repr": "  Data scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2021-02-25T21:44:40.329Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "\nPython developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2021-02-25T21:44:40.484Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "\nPython developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2021-02-25T21:44:40.607Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "0",
+    "object_repr": "\nPython Trainee\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2021-02-25T21:45:21.062Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "54",
+    "object_repr": "  Python developer (Middle)\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2021-02-25T21:45:21.518Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "53",
+    "object_repr": "  DevOps Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2021-02-25T21:45:21.655Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "52",
+    "object_repr": "  œÓ„‡ÏÏËÒÚ Go(Golang) ‚ ÒÂ‰Â Kubernetes\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2021-02-25T21:45:21.808Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "51",
+    "object_repr": "  Python developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2021-02-25T21:45:21.922Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "50",
+    "object_repr": "  Data Scientist\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2021-02-25T21:45:22.041Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "49",
+    "object_repr": "  Python Developer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2021-02-25T21:45:22.162Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "48",
+    "object_repr": "  Python / Data Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2021-02-25T21:45:22.278Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "47",
+    "object_repr": "  Python ML Engineer\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2021-02-25T21:45:22.407Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "46",
+    "object_repr": "  Data Analyst\n ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2021-02-25T21:45:22.550Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "45",
+    "object_repr": "\nSenior Python Software Engineer\nat†SoftServe",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2021-02-25T21:45:22.750Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "44",
+    "object_repr": "\nPython/Django Developer\nat†LITSLINK",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2021-02-25T21:45:22.874Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "43",
+    "object_repr": "\nSenior Backend Engineer\nat†MWDN",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.007Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "42",
+    "object_repr": "\n¿Ì‡Î≥ÚËÍ-ÍÓÌÙ≥„Û‡ÚÓ\nat†Kyivstar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.140Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "41",
+    "object_repr": "\nData Analyst\nat†Railsware",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.288Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "40",
+    "object_repr": "\nMiddle/Senior Test Automation Engineer\nat†GlobalLogic",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.425Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "39",
+    "object_repr": "\nData Quality Engineer (BI)\nat†N-ix",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.570Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "38",
+    "object_repr": "\nSoftware Engineer (Python/Angular)\nat†Devox Software",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.695Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "37",
+    "object_repr": "\nMiddle QA Automation engineer\nat†Intetics",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.841Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "36",
+    "object_repr": "\nPython developer\nat†Powercode",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2021-02-25T21:45:23.963Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "35",
+    "object_repr": "\nPython Software Engineer (ML†project)†‚†SoftConstruct Ukraine\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.074Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "34",
+    "object_repr": "\nPython developer†‚††3DLOOK\n ËÂ‚, Œ‰ÂÒÒ‡, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.206Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "33",
+    "object_repr": "\nPython/Data Engineer†‚††Codeminders\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.331Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "32",
+    "object_repr": "\nMiddle/Senior Python Automation Engineer (Corporative Test Automation Framework for AUDI†AG)†‚††WeSoftYou\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.462Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "31",
+    "object_repr": "\nMiddle Python Engineer for Flatfy B2B product†‚††À”Õ\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.576Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "30",
+    "object_repr": "\nSenior Software Engineer†‚††LOOQME\nÓÚ†$3500\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.720Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "29",
+    "object_repr": "\nSoftware Developer (Python)†‚††Orderry\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.841Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "28",
+    "object_repr": "\nSenior Back-End Engineer (Python)†‚††HealthJoy\n$3500ñ5000\n ËÂ‚, ƒÌÂÔ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2021-02-25T21:45:24.963Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "27",
+    "object_repr": "\nSenior Python Developer†/ Lead†‚††21 Creative Agency\n$5000ñ7000\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.085Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "26",
+    "object_repr": "\nStrong Middle Python Developer (Django)†‚††WeSoftYou\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.207Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "25",
+    "object_repr": "\nSenior Python Developer†‚††Nimble Inc.\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.329Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "24",
+    "object_repr": "\nSenior Full-Stack Python Developer†‚††EVOLVE Dev\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.463Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "\nPython Software Engineer†‚††CyberVision, Inc.\n ËÂ‚\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.574Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "\nBack end developer (Python)†ó 3D†Í‡Ú˚, Õ‡‚Ë„‡ˆËˇ, ƒÓÔÓÎÌÂÌÌ‡ˇ –Â‡Î¸ÌÓÒÚ¸†‚††Augmented Pixels\nÓÚ†$5000\n ËÂ‚, Œ‰ÂÒÒ‡, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.713Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "21",
+    "object_repr": "\nPython Developer†‚†The WhyKingz\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.818Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "20",
+    "object_repr": "\nSenior Python Engineer for Flatfy†‚††À”Õ\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2021-02-25T21:45:25.951Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "\nPython Developer, Financial Software Solutions†‚††DataArt\n ËÂ‚, ’‡¸ÍÓ‚, À¸‚Ó‚, ƒÌÂÔ, Œ‰ÂÒÒ‡, ’ÂÒÓÌ, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.062Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "\nStaff Backend Engineer†‚††People.ai\n‰Ó†$9000\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.183Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "\nPython Software Developer†‚†JS Dynamics\n ËÂ‚, À¸‚Ó‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.297Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "\nMiddle Python Engineer for Flatfy Website†‚††À”Õ\n ËÂ‚, Û‰‡ÎÂÌÌÓ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.405Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "\nJunior Technical Support (Python)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.550Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "\nSenior Python, Django Developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.672Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "\nMiddle Python-ÔÓ„‡ÏÏËÒÚ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.818Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "\nPython Developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2021-02-25T21:45:26.950Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "\nPython/Django Full Stack Developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2021-02-25T21:45:27.095Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "\nPython Developer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2021-02-25T21:45:27.228Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "\nJunior fullstack developer (Python, JS)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2021-02-25T21:45:27.351Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "\nœÂÔÓ‰‡‚‡ÚÂÎ¸ ÍÛÒ‡ \"œÓ„‡ÏÏËÓ‚‡ÌËÂ Ì‡ Python\" ‰Îˇ ‰ÂÚÂÈ 10-15 ÎÂÚ\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2021-02-25T21:45:27.473Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "\nMiddle BI developer (Python)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2021-02-25T21:45:27.598Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "\nSenior Python Developer (BigData)\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2021-02-25T21:45:27.733Z",
+    "user": 8,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "\nPython Software Engineer\n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add city",
+    "content_type": 6,
+    "codename": "add_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change city",
+    "content_type": 6,
+    "codename": "change_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete city",
+    "content_type": 6,
+    "codename": "delete_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view city",
+    "content_type": 6,
+    "codename": "view_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add language",
+    "content_type": 7,
+    "codename": "add_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change language",
+    "content_type": 7,
+    "codename": "change_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete language",
+    "content_type": 7,
+    "codename": "delete_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view language",
+    "content_type": 7,
+    "codename": "view_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add vacancy",
+    "content_type": 8,
+    "codename": "add_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change vacancy",
+    "content_type": 8,
+    "codename": "change_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete vacancy",
+    "content_type": 8,
+    "codename": "delete_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view vacancy",
+    "content_type": 8,
+    "codename": "view_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add my user",
+    "content_type": 9,
+    "codename": "add_myuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change my user",
+    "content_type": 9,
+    "codename": "change_myuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete my user",
+    "content_type": 9,
+    "codename": "delete_myuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view my user",
+    "content_type": 9,
+    "codename": "view_myuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add error",
+    "content_type": 10,
+    "codename": "add_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change error",
+    "content_type": 10,
+    "codename": "change_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete error",
+    "content_type": 10,
+    "codename": "delete_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view error",
+    "content_type": 10,
+    "codename": "view_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add url",
+    "content_type": 11,
+    "codename": "add_url"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change url",
+    "content_type": 11,
+    "codename": "change_url"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete url",
+    "content_type": 11,
+    "codename": "delete_url"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view url",
+    "content_type": 11,
+    "codename": "view_url"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "scraping",
+    "model": "city"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "scraping",
+    "model": "language"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "scraping",
+    "model": "vacancy"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "accounts",
+    "model": "myuser"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "scraping",
+    "model": "error"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "scraping",
+    "model": "url"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kof6r65id7fg4kpkl869g91nfybuo8ex",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllJvP5ASZ8zWGvvLg4gR4qTCnF3iJQC2jcz76UibmuJW-MlTqQuKqjT75YwP7jugO5Yb7POc12XKeld0QdtepyJn9fD_Tso2Mq35uCtoS47BgbnvZCT3jJ6ID8kycmwBQIDoUMK0puBLCebSYjOBkS9P_wYONs:1lFOOU:51GzjZbaLUaCGyFHMJmP_YkykRGZnXBt1YlllcLhZ3o",
+    "expire_date": "2021-03-11T21:41:58.702Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lpmf9a1iklsvzxjlkdyfj2549l0r10m8",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFQygIevfcbyMJubdVAUtqT8d9tkx50jvPezFtE3NYpbo2XOJO4Cisuv13C_ORyAHpguVeZa1mXOclDkSdtcqjEr9vp_h1M2KZ9zZodkOkIc3DOBsV-BLsnOANa-Z7BGVKEPWpO1uMIOnBC04GGLrH4fAHTYjeE:1lEuzC:Rrb-u4ZF5juo8EaUa50r_0iDqZ_K-oVPnCEZBYhYNLU",
+    "expire_date": "2021-03-10T14:17:54.165Z"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 1,
+  "fields": {
+    "name": " Ëø‚",
+    "slug": "kyiv"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 1,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "scraping.error",
+  "pk": 1,
+  "fields": {
+    "timestamp": "2021-02-23",
+    "data": "[{\"url\": \"https://djinni.co/jobs2/?category=python&location=kyiv&\", \"title\": \"Page do not response\"}]"
+  }
+},
+{
+  "model": "scraping.error",
+  "pk": 2,
+  "fields": {
+    "timestamp": "2021-02-23",
+    "data": "[{\"url\": \"https://djinni.co/jobs2/?category=python&location=kyiv&\", \"title\": \"Page do not response\"}]"
+  }
+},
+{
+  "model": "scraping.error",
+  "pk": 3,
+  "fields": {
+    "timestamp": "2021-02-24",
+    "data": "{\"user_data\": [{\"city\": \"city\", \"language\": \"language\", \"email\": \"email\"}, {\"city\": \"city1\", \"language\": \"language1\", \"email\": \"email1\"}, {\"city\": \"Kovalivka\", \"language\": \"Python\", \"email\": \"serozka121@gmail.com\"}, {\"city\": \"Kovalivka\", \"language\": \"en_US\", \"email\": \"serozka121@gmail.com\"}], \"errors\": [{\"url\": \"https://djinni.co/jobs2/?category=python&location=kyiv&\", \"title\": \"Page do not response\"}]}"
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 1,
+  "fields": {
+    "city": 1,
+    "language": 1,
+    "url_data": "{\"work\": \"https://www.work.ua/jobs-kyiv-python/\", \"rabota\": \"https://rabota.ua/ua/zapros/python/%D0%BA%D0%B8%D0%B5%D0%B2\", \"dou\": \"https://jobs.dou.ua/vacancies/?city=%D0%9A%D0%B8%D1%97%D0%B2&category=Python\", \"djinni\": \"https://djinni.co/jobs2/?category=python&location=kyiv&\"}"
+  }
+},
+{
+  "model": "accounts.myuser",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$216000$fSHnPV88XeyY$v2xjai52+k4XRE0vN7vTrFgbF2D01dCXPy7WT8uTbmY=",
+    "last_login": "2021-02-22T21:22:02.749Z",
+    "email": "user@user.com",
+    "is_active": true,
+    "is_admin": false,
+    "city": 1,
+    "language": 1,
+    "send_email": false
+  }
+},
+{
+  "model": "accounts.myuser",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$216000$Vhjbg10NBjvR$AFndWpB6XK/VOTRiOOX+46SoFSgx+5u3FZYFSN3rhXk=",
+    "last_login": null,
+    "email": "serozka121@gmail.com",
+    "is_active": true,
+    "is_admin": true,
+    "city": 1,
+    "language": 1,
+    "send_email": true
+  }
+},
+{
+  "model": "accounts.myuser",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$216000$NoUrpKNeKJdL$sxxyHExc6bcDJlN0gL82Nvbyxvsta5b9dgVdNlt0KuI=",
+    "last_login": "2021-02-24T14:17:54.071Z",
+    "email": "user2@user.com",
+    "is_active": true,
+    "is_admin": false,
+    "city": 1,
+    "language": 1,
+    "send_email": false
+  }
+},
+{
+  "model": "accounts.myuser",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$216000$JTZIWOne05eo$jyv++m/fzvrPctRbjA2YXddkzUsQuWmdZx/WwQKp4bk=",
+    "last_login": "2021-02-25T21:41:58.579Z",
+    "email": "admin@admin.com",
+    "is_active": true,
+    "is_admin": true,
+    "city": null,
+    "language": null,
+    "send_email": true
+  }
+}
+]
